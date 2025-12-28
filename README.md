@@ -25,7 +25,7 @@ This repository provides a **structured overview of my research and policy backg
 
 - **Data Preparation & Research Infrastructure**  
   Data integration, harmonization, documentation, and quality assurance  
-  Extensive use of **Stata**, **SQL**, and **SPSS** for large-scale empirical datasets  
+  Extensive use of **Stata**, **Python**, **SQL**, and **SPSS** for large-scale empirical datasets  
   Reproducible research workflows
 
 - **Applied Quantitative Methods**  
