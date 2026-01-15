@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Dr. Paul Schmelzer
 
-**Empirical Research · Quantitative Analysis · Policy & Environmental Evaluation**
+**Empirical Research · Quantitative Analysis · Policy & Evaluation**
 
 I hold a PhD in Social and Economic Sciences and bring over 20 years of experience in empirical research, quantitative analysis, and policy-oriented evaluation.  
 My work bridges **academic research (DIW Berlin, IAB)** and **applied analytical projects** for public institutions and organizations, with a focus on evidence-based decision-making in labor markets, social policy, health systems, and environmental contexts.
