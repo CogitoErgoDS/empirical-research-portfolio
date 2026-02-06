@@ -28,9 +28,9 @@ This repository provides a **structured overview of my research and policy backg
   Extensive use of **Stata**, **Python**, **SQL**, and **SPSS** for large-scale empirical datasets  
   Reproducible research workflows
 
-- **Applied Quantitative Methods**  
-  Regression analysis, clustering, typologies, benchmarking  
-  Descriptive and inferential statistics for policy-relevant questions
+- **Applied Machine-Learning Methods**  
+  Supervised learning for **classification, clustering, prediction, and data validation**  
+  Tree-based models and structured model building to support typologies, robustness checks, and analytical insight
 
 - **Health Economics (current focus)**  
   Evaluation of digital health and prevention programs  
@@ -38,14 +38,6 @@ This repository provides a **structured overview of my research and policy backg
 
 ---
 
-## 🧠 Applied Machine Learning & Data Science (selected)
-
-Applied machine-learning methods to support **data exploration, validation, and prediction** in empirical projects.  
-This includes **tree-based models** for pattern detection and typology building, as well as selected **deep-learning approaches** for image-based classification tasks.
-
-The focus lies on **methodological complementarity**: using data-driven models to enhance robustness, plausibility checks, and analytical insight in complex empirical settings.
-
----
 
 ## 🏛 Research & Policy Background
 
@@ -60,15 +52,17 @@ The focus lies on **methodological complementarity**: using data-driven models t
 
 ---
 
-## 🌍 International & Comparative Research Experience
+### 🌍 International & Comparative Research Experience
 
-Extensive experience in **international comparative research projects** examining labor markets, social inequality, aging, and migration across countries and institutional settings.
+International comparative research within **DFG-funded projects** (2005–2010), focusing on
+labor markets, social inequality, aging, and migration across countries and institutional contexts.
 
 Work included:
-- Preparation and harmonization of **international survey and panel data**
+- Preparation and harmonization of international survey and panel data
 - Cross-country comparability checks and documentation
-- Comparative modeling of employment trajectories, income dynamics, and social outcomes
-- Contribution to **international research consortia and policy-oriented comparative studies**
+- Comparative modeling of employment trajectories and income dynamics
+- Collaboration within international research consortia and policy-oriented projects
+
 
 ---
 
@@ -109,6 +103,17 @@ Findings supported **strategic decision-making** in assortment planning, product
 
 📄 **Full publication list:**  
 https://github.com/CogitoErgoDS/Publication-List
+
+---
+
+## 🧠 Applied Machine Learning & Data Science (selected)
+
+Application of machine-learning methods to complement empirical analysis, particularly for
+pattern detection, data validation, and predictive support in complex datasets.
+
+Experience includes tree-based models for classification and clustering, as well as selected
+deep-learning approaches for image-based classification tasks, with full workflows covering
+data preparation, modeling, and evaluation.
 
 ---
 
