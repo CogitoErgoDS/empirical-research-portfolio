@@ -38,9 +38,19 @@ This repository provides a **structured overview of my research and policy backg
 
 ---
 
+## 🧠 Applied Machine Learning & Data Science (selected)
+
+Applied machine-learning methods to support **data exploration, validation, and prediction** in empirical projects.  
+This includes **tree-based models** for pattern detection and typology building, as well as selected **deep-learning approaches** for image-based classification tasks.
+
+The focus lies on **methodological complementarity**: using data-driven models to enhance robustness, plausibility checks, and analytical insight in complex empirical settings.
+
+---
+
 ## 🏛 Research & Policy Background
 
 ### German Research Institutes
+
 - **DIW Berlin (2013–2021)**  
   Quantitative socio-economic research, data management, and policy evaluation
 
@@ -50,7 +60,7 @@ This repository provides a **structured overview of my research and policy backg
 
 ---
 
-### 🌍 International & Comparative Research Experience
+## 🌍 International & Comparative Research Experience
 
 Extensive experience in **international comparative research projects** examining labor markets, social inequality, aging, and migration across countries and institutional settings.
 
@@ -60,24 +70,6 @@ Work included:
 - Comparative modeling of employment trajectories, income dynamics, and social outcomes
 - Contribution to **international research consortia and policy-oriented comparative studies**
 
-This work supported **select policy questions** related to employment, migration, and demographic change, and informed comparative assessments beyond a single national context.
-
----
-
-### Selected Policy & Ministerial Studies
-- **BMAS / IAB – RehaPro**  
-  Causal evaluation of innovative rehabilitation programs
-
-- **BMAS / IAB – LTA IS1**  
-  Effects of vocational rehabilitation measures on labor-market integration
-
-- **BMAS / IAB – SGB II Typology**  
-  Regression- and cluster-based redesign of job-center benchmarking  
-  Adopted as a steering instrument by BMAS / BA
-
-- **Marginal Employment (LABOUR, 2017)**  
-  Dynamic evaluation of stepping-stone vs. lock-in effects using panel data
-
 ---
 
 ## 📊 Selected Applied & Advisory Projects
@@ -85,22 +77,19 @@ This work supported **select policy questions** related to employment, migration
 ### ♻️ Ecoembes – Environmental Data Analysis & Recycling Behavior (2022–2024)
 
 Joint applied research project with **Ecoembes** (Spain’s national recycling consortium) and **Carlos III University Madrid**.  
-The project analyzed **municipal-level environmental and socioeconomic data** to understand regional differences in recycling behavior and container misuse.
+Analysis of **municipal-level environmental and socioeconomic data** to identify structural drivers of recycling behavior and container misuse.
 
-I was responsible for **data integration, quality assurance, and empirical analysis** of large-scale regional datasets covering approximately 8,000 municipalities.  
-The analyses identified **structural and contextual factors** associated with poor recycling outcomes, particularly in tourism-intensive regions and time-constrained household contexts.
-
-The results provided **evidence-based foundations for environmental policy measures, communication strategies, and targeted interventions** aimed at improving recycling quality and compliance.
+Responsibilities included data integration, quality assurance, and empirical analysis of large-scale regional datasets (≈ 8,000 municipalities).  
+Results informed **evidence-based environmental policy measures** and targeted interventions.
 
 ---
 
 ### 🕶️ Vistachic S.L. – Applied Empirical Analysis & Market Insights (2022–2024)
 
-At **Vistachic S.L.**, I conducted empirical analyses of sales and product data from retail operations in Spain and France.  
-My work focused on **data preparation, harmonization, and structured evaluation** of multi-market sales information.
+Empirical analysis of sales and product data from retail operations in Spain and France.  
+Focus on **data preparation, harmonization, and structured evaluation** of multi-market sales information.
 
-Based on systematic analysis of historical sales patterns, I identified **key product characteristics and demand drivers** and derived **evidence-based recommendations** for assortment planning and product development.  
-The analyses supported **strategic decision-making** in product design, logistics, and market positioning.
+Findings supported **strategic decision-making** in assortment planning, product development, and market positioning.
 
 ---
 
@@ -118,19 +107,19 @@ The analyses supported **strategic decision-making** in product design, logistic
 - *GlobalIndex: An Approach to Measuring Globalization*  
   **International Sociology (2008)**
 
-### Full Publication List
-📄 [Download PDF](https://github.com/CogitoErgoDS/Publication-List/raw/main/Publikationsliste.pdf)
+📄 **Full publication list:**  
+https://github.com/CogitoErgoDS/Publication-List
 
 ---
 
-## 🩺 Health Economics & Prevention (Current Focus)
+## 🩺 Health Economics & Prevention
 
 Continuing education in **Health Economics**  
 (IU International University, since 2025)
 
 Focus areas:
-- German GKV system and reimbursement structures
-- Budget negotiations
+- German GKV system and reimbursement structures  
+- Budget negotiations  
 - Evaluation of digital health and prevention programs
 
 ---
@@ -145,5 +134,7 @@ Focus areas:
 
 ## 📫 Contact
 
-- GitHub: [@CogitoErgoDS](https://github.com/CogitoErgoDS)  
+- GitHub: https://github.com/CogitoErgoDS  
 - Email: paul.schmelzer.sci@gmail.com
+
+*Make evidence count.*
