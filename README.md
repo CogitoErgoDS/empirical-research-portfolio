@@ -68,17 +68,22 @@ Work included:
 
 ## 📊 Selected Applied & Advisory Projects
 
-### ♻️ Ecoembes – Environmental Data Analysis & Recycling Behavior (2022–2024)
+### ♻️ Ecoembes – Environmental Data Analysis & Recycling Behavior (2022–2025)
 
-Joint applied research project with **Ecoembes** (Spain’s national recycling consortium) and **Carlos III University Madrid**.  
-Analysis of **municipal-level environmental and socioeconomic data** to identify structural drivers of recycling behavior and container misuse.
+Applied research project commissioned by **Ecoembes** (Spain’s national recycling consortium) in collaboration with **Carlos III University Madrid**.  
+Empirical analysis of **municipal-level environmental and socioeconomic data** to identify structural drivers of recycling performance and container misuse.
 
-Responsibilities included data integration, quality assurance, and empirical analysis of large-scale regional datasets (≈ 8,000 municipalities).  
-Results informed **evidence-based environmental policy measures** and targeted interventions.
+Responsibilities included:
 
+- Integration and harmonization of recycling and socioeconomic datasets covering **8,000+ municipalities**
+- Development and comparison of parametric model specifications to analyze variation in recycling quantity and quality
+- Systematic comparison of predicted and observed outcomes to identify structural deviations
+- Data validation and methodological consistency across project phases
+
+Results informed **evidence-based environmental policy measures** and targeted regional interventions.
 ---
 
-### 🕶️ Vistachic S.L. – Applied Empirical Analysis & Market Insights (2022–2024)
+### 🕶️ Vistachic S.L. – Applied Empirical Analysis & Market Insights (since 2025)
 
 Empirical analysis of sales and product data from retail operations in Spain and France.  
 Focus on **data preparation, harmonization, and structured evaluation** of multi-market sales information.
