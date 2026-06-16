@@ -122,17 +122,6 @@ data preparation, modeling, and evaluation.
 
 ---
 
-## 🩺 Health Economics & Prevention
-
-Continuing education in **Health Economics**  
-(IU International University, since 2025)
-
-Focus areas:
-- German GKV system and reimbursement structures  
-- Budget negotiations  
-- Evaluation of digital health and prevention programs
-
----
 
 ## 🌍 Languages
 
