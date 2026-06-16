@@ -32,10 +32,6 @@ This repository provides a **structured overview of my research and policy backg
   Supervised learning for **classification, clustering, prediction, and data validation**  
   Tree-based models and structured model building to support typologies, robustness checks, and analytical insight
 
-- **Health Economics (current focus)**  
-  Evaluation of digital health and prevention programs  
-  Institutional structures of the German GKV system
-
 ---
 
 
