@@ -39,10 +39,10 @@ This repository provides a **structured overview of my research and policy backg
 
 ### German Research Institutes
 
-- **DIW Berlin (2013–2021)**  
+- **DIW Berlin**  
   Quantitative socio-economic research, data management, and policy evaluation
 
-- **Institute for Employment Research – IAB (2010–2013)**  
+- **Institute for Employment Research – IAB**  
   Empirical evaluation of labor-market and rehabilitation programs  
   Advisory research for BMAS and BA using counterfactual approaches
 
@@ -64,7 +64,7 @@ Work included:
 
 ## 📊 Selected Applied & Advisory Projects
 
-### ♻️ Ecoembes – Environmental Data Analysis & Recycling Behavior (2022–2025)
+### ♻️ Ecoembes – Environmental Data Analysis & Recycling Behavior
 
 Applied research project commissioned by **Ecoembes** (Spain’s national recycling consortium) in collaboration with **Carlos III University Madrid**.  
 Empirical analysis of **municipal-level environmental and socioeconomic data** to identify structural drivers of recycling performance and container misuse.
@@ -79,7 +79,7 @@ Responsibilities included:
 Results informed **evidence-based environmental policy measures** and targeted regional interventions.
 ---
 
-### 🕶️ Vistachic S.L. – Applied Empirical Analysis & Market Insights (since 2025)
+### 🕶️ Vistachic S.L. – Applied Empirical Analysis & Market Insights
 
 Empirical analysis of sales and product data from retail operations in Spain and France.  
 Focus on **data preparation, harmonization, and structured evaluation** of multi-market sales information.
