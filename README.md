@@ -1,6 +1,6 @@
-# ðŸ‘‹ Welcome, I'm Dr. Paul Schmelzer
+# Welcome, I'm Dr. Paul Schmelzer
 
-**Empirical Research Â· Quantitative Analysis Â· Causal Inference Â· Policy & Evaluation**
+**Empirical Research | Quantitative Analysis | Causal Inference | Policy & Evaluation**
 
 I hold a PhD in Social and Economic Sciences and bring over **20 years of experience in empirical research, quantitative analysis, statistical modeling, and policy-oriented evaluation**.
 
@@ -10,7 +10,7 @@ This repository provides a **structured overview of my empirical research, polic
 
 ---
 
-## ðŸ” Core Expertise
+##  Core Expertise
 
 ### Empirical Research Design & Causal Inference
 - Counterfactual and quasi-experimental research designs
@@ -48,9 +48,9 @@ This repository provides a **structured overview of my empirical research, polic
 
 ---
 
-## ðŸ› Research & Policy Background
+##  Research & Policy Background
 
-### DIW Berlin / SOEP â€“ Research Data Infrastructure & Quantitative Research
+### DIW Berlin / SOEP - Research Data Infrastructure & Quantitative Research
 
 At the **German Institute for Economic Research (DIW Berlin)**, I worked in the **Socio-Economic Panel (SOEP)** and combined quantitative research with substantial responsibility for complex research-data infrastructure.
 
@@ -72,7 +72,7 @@ This work combined **conceptual data architecture, reproducibility, methodologic
 
 ---
 
-### Institute for Employment Research (IAB) â€“ Causal Evaluation & Evidence for Labor-Market Policy
+### Institute for Employment Research (IAB) - Causal Evaluation & Evidence for Labor-Market Policy
 
 At the **Institute for Employment Research (IAB)**, I worked on labor-market and social-policy research using large administrative and register datasets.
 
@@ -91,9 +91,9 @@ The central methodological focus was not only effect estimation, but the design 
 
 ---
 
-### ðŸŒ International & Comparative Research Experience
+###  International & Comparative Research Experience
 
-My earlier research career was shaped by **DFG-funded international research projects** at the Universities of Bamberg, Leipzig, and GÃ¶ttingen within the same continuing research context.
+My earlier research career was shaped by **DFG-funded international research projects** at the Universities of Bamberg, Leipzig, and Goettingen within the same continuing research context.
 
 Work included:
 
@@ -110,9 +110,9 @@ This work established a long-standing foundation in **comparative empirical rese
 
 ---
 
-## ðŸ“Š Selected Applied & Advisory Projects
+##  Selected Applied & Advisory Projects
 
-### â™»ï¸ Ecoembes & Universidad Carlos III Madrid â€“ Environmental Data Analysis & Recycling Behavior
+###  Ecoembes & Universidad Carlos III Madrid - Environmental Data Analysis & Recycling Behavior
 
 Applied research project in collaboration with **Ecoembes** and **Universidad Carlos III Madrid**.
 
@@ -124,7 +124,7 @@ Responsibilities included:
 - Data harmonization, validation, consistency checks, and construction of a structured analytical database
 - Development and comparison of alternative parametric model specifications
 - Systematic comparison of predicted and observed outcomes to identify structural deviations
-- Quantification of regional differences in recycling quantity, recycling quality, and container misuse (â€œimpropiosâ€)
+- Quantification of regional differences in recycling quantity, recycling quality, and container misuse ("impropios")
 - Identification of regional patterns and evidence-based recommendations for targeted communication and policy measures
 - Methodological support for extending the project from selected regions to broader geographic coverage
 
@@ -132,7 +132,7 @@ The project linked **empirical research design, large-scale municipal data, stat
 
 ---
 
-### ðŸ•¶ï¸ Vistachic S.L. â€“ Applied Empirical Analysis & Market Insights
+###  Vistachic S.L. - Applied Empirical Analysis & Market Insights
 
 Independent analytical project using multi-year retail and product data from operations in Spain and France.
 
@@ -151,7 +151,7 @@ The project demonstrates the transfer of **statistical reasoning and empirical a
 
 ---
 
-## ðŸ› Selected Policy & Evaluation Projects
+##  Selected Policy & Evaluation Projects
 
 ### Labor-Market Rehabilitation
 - Development of empirical concepts and analytical strategies for research on vocational rehabilitation
@@ -177,7 +177,7 @@ The project demonstrates the transfer of **statistical reasoning and empirical a
 
 ---
 
-## ðŸ§  Applied Machine Learning & Data Science
+##  Applied Machine Learning & Data Science
 
 My core background is in **statistics, econometrics, empirical research design, and causal analysis**. I have expanded this foundation with modern data-science and machine-learning methods.
 
@@ -192,13 +192,13 @@ Experience includes:
 - Neural networks and selected deep-learning applications
 - Reproducible analytical workflows using Python, Git, GitHub, and Jupyter
 
-I use machine-learning approaches as a complement to statistical and empirical reasoning â€” particularly for **prediction, pattern detection, validation, and applied decision support**.
+I use machine-learning approaches as a complement to statistical and empirical reasoning - particularly for **prediction, pattern detection, validation, and applied decision support**.
 
 ---
 
-## ðŸ§© Selected Data Science Project
+##  Selected Data Science Project
 
-### Lumbar Spine Classification â€“ RSNA 2024 Challenge
+### Lumbar Spine Classification - RSNA 2024 Challenge
 
 Independent deep-learning project for classification of degenerative spinal conditions from MRI images.
 
@@ -207,11 +207,11 @@ Independent deep-learning project for classification of degenerative spinal cond
 - End-to-end pipeline covering data preparation, model training, validation, and evaluation
 - Approx. **85% classification accuracy** compared with an initial baseline of approx. 35%
 
-ðŸ”— **Project:** [Lumbar Spine Degenerative Classification](https://github.com/CogitoErgoDS/Spine-Classification-Final/blob/main/README.md)
+ **Project:** [Lumbar Spine Degenerative Classification](https://github.com/CogitoErgoDS/Spine-Classification-Final/blob/main/README.md)
 
 ---
 
-## ðŸ“š Selected Publications
+##  Selected Publications
 
 - *Consequences of Overeducation among Career Starters in Germany*  
   **European Sociological Review (2020)**
@@ -225,43 +225,43 @@ Independent deep-learning project for classification of degenerative spinal cond
 - *GlobalIndex: An Approach to Measuring Globalization*  
   **International Sociology (2008)**
 
-### ðŸ“„ Full Publication List
+###  Full Publication List
 
 [View full publication list on GitHub](https://github.com/CogitoErgoDS/Publication-List)
 
 ---
 
-## ðŸ›  Methods & Tools
+##  Methods & Tools
 
 **Statistics & Econometrics**  
-Regression models Â· GLM Â· GLMM Â· GAM Â· Panel Models Â· Survival Analysis Â· Event-History Analysis Â· Fixed/Random Effects Â· PCA Â· PLS Â· Time Series Â· Forecasting
+Regression models | GLM | GLMM | GAM | Panel Models | Survival Analysis | Event-History Analysis | Fixed/Random Effects | PCA | PLS | Time Series | Forecasting
 
 **Causal Inference & Evaluation**  
-Counterfactual Designs Â· PSM Â· Matching Â· DiD Â· RDD Â· Quasi-Experimental Designs Â· Robustness Analysis Â· Policy Evaluation
+Counterfactual Designs | PSM | Matching | DiD | RDD | Quasi-Experimental Designs | Robustness Analysis | Policy Evaluation
 
 **Programming & Data Analysis**  
-Python Â· Stata Â· SQL Â· SPSS Â· pandas Â· NumPy Â· scikit-learn Â· statsmodels Â· Jupyter
+Python | Stata | SQL | SPSS | pandas | NumPy | scikit-learn | statsmodels | Jupyter
 
 **Machine Learning**  
-Random Forest Â· Gradient Boosting Â· SVM Â· Ensemble Learning Â· Regularization Â· Cross-Validation Â· Feature Engineering Â· Neural Networks Â· Deep Learning
+Random Forest | Gradient Boosting | SVM | Ensemble Learning | Regularization | Cross-Validation | Feature Engineering | Neural Networks | Deep Learning
 
 **Research Data & Reproducibility**  
-Data Harmonization Â· Data Validation Â· Quality Assurance Â· Git Â· GitHub Â· MLflow Â· Reproducible Workflows Â· Research Data Documentation
+Data Harmonization | Data Validation | Quality Assurance | Git | GitHub | MLflow | Reproducible Workflows | Research Data Documentation
 
 **Visualization & Reporting**  
-Power BI Â· Matplotlib Â· Statistical Reporting Â· Decision-Oriented Communication
+Power BI | Matplotlib | Statistical Reporting | Decision-Oriented Communication
 
 ---
 
-## ðŸŒ Languages
+##  Languages
 
-- German â€” native
-- English â€” fluent
-- Russian â€” fluent
+- German - native
+- English - fluent
+- Russian - fluent
 
 ---
 
-## ðŸ“« Contact
+##  Contact
 
 - **GitHub:** [@CogitoErgoDS](https://github.com/CogitoErgoDS)
 - **Email:** paul.schmelzer.sci@gmail.com
