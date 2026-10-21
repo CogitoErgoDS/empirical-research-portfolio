@@ -1,94 +1,217 @@
-# 👋 Welcome, I'm Dr. Paul Schmelzer
+# ðŸ‘‹ Welcome, I'm Dr. Paul Schmelzer
 
-**Empirical Research · Quantitative Analysis · Policy & Evaluation**
+**Empirical Research Â· Quantitative Analysis Â· Causal Inference Â· Policy & Evaluation**
 
-I hold a PhD in Social and Economic Sciences and bring over 20 years of experience in empirical research, quantitative analysis, and policy-oriented evaluation.  
-My work bridges **academic research (DIW Berlin, IAB)** and **applied analytical projects** for public institutions and organizations, with a focus on evidence-based decision-making in labor markets, social policy, health systems, and environmental contexts.
+I hold a PhD in Social and Economic Sciences and bring over **20 years of experience in empirical research, quantitative analysis, statistical modeling, and policy-oriented evaluation**.
 
-This repository provides a **structured overview of my research and policy background**, as well as selected applied and advisory projects.
+My work bridges **academic and public-sector research (DIW Berlin, IAB, DFG-funded university projects)** with **applied analytical projects** for organizations and private-sector partners. I focus on turning complex data into reliable evidence for research, policy, and decision-making.
 
----
-
-## 🔍 Core Expertise
-
-- **Empirical & Econometric Analysis**  
-  Administrative and panel data, causal inference, counterfactual analysis, selection models, survival analysis, GLMM/GAM
-
-- **International & Comparative Research**  
-  Cross-country and cross-institutional comparisons  
-  Harmonization of international survey and administrative data  
-  Comparative analysis of labor-market, social-policy, and demographic outcomes
-
-- **Policy, Program & Environmental Evaluation**  
-  Evaluation of labor-market, rehabilitation, social-policy, and environmental programs  
-  Analytical foundations for ministerial and institutional decision-making
-
-- **Data Preparation & Research Infrastructure**  
-  Data integration, harmonization, documentation, and quality assurance  
-  Extensive use of **Stata**, **Python**, **SQL**, and **SPSS** for large-scale empirical datasets  
-  Reproducible research workflows
-
-- **Applied Machine-Learning Methods**  
-  Supervised learning for **classification, clustering, prediction, and data validation**  
-  Tree-based models and structured model building to support typologies, robustness checks, and analytical insight
+This repository provides a **structured overview of my empirical research, policy-evaluation, research-data, and applied analytical background**.
 
 ---
 
+## ðŸ” Core Expertise
 
-## 🏛 Research & Policy Background
+### Empirical Research Design & Causal Inference
+- Counterfactual and quasi-experimental research designs
+- Propensity Score Matching (PSM), matching approaches, Difference-in-Differences (DiD)
+- Regression-based impact analysis and model-based evaluation
+- Panel, longitudinal, and event-history analysis
+- Robustness analysis, model validation, and empirical strategy development
 
-### German Research Institutes
+### Research Data Infrastructure & Reproducibility
+- Conceptual design and development of complex longitudinal research datasets
+- Multi-level linkage of person, household, event, episode, and time-based data structures
+- Data harmonization, validation, plausibility checks, and quality assurance
+- Reproducible data-processing and documentation workflows
+- Structured research-data preparation for repeated updates and downstream analysis
 
-- **DIW Berlin**  
-  Quantitative socio-economic research, data management, and policy evaluation
+### Policy & Program Evaluation
+- Evaluation of labor-market, rehabilitation, and social-policy programs
+- Analysis of administrative, register, panel, and survey data
+- Evidence generation for ministries, public institutions, and research organizations
+- Benchmarking, typologies, and comparative institutional analysis
+- Translation of statistical findings into decision-relevant evidence
 
-- **Institute for Employment Research – IAB**  
-  Empirical evaluation of labor-market and rehabilitation programs  
-  Advisory research for BMAS and BA using counterfactual approaches
+### International & Comparative Research
+- Cross-country and cross-institutional comparative research
+- Harmonization of international survey and panel data
+- Comparative modeling of employment trajectories, inequality, aging, and labor-market outcomes
+- Collaboration within international research projects and consortia
+
+### Applied Data Science
+- Statistical and machine-learning modeling for structured datasets
+- Regression, classification, forecasting, clustering, and pattern detection
+- Python, Stata, SQL, SPSS
+- Reproducible analytical workflows with Git/GitHub
+- Applied commercial and environmental analytics
 
 ---
 
-### 🌍 International & Comparative Research Experience
+## ðŸ› Research & Policy Background
 
-International comparative research within **DFG-funded projects** (2005–2010), focusing on
-labor markets, social inequality, aging, and migration across countries and institutional contexts.
+### DIW Berlin / SOEP â€“ Research Data Infrastructure & Quantitative Research
+
+At the **German Institute for Economic Research (DIW Berlin)**, I worked in the **Socio-Economic Panel (SOEP)** and combined quantitative research with substantial responsibility for complex research-data infrastructure.
+
+Key responsibilities included:
+
+- Conceptual design and development of new research datasets and processing structures for complex longitudinal SOEP data
+- Development of data-linkage logic across **person, household, event, episode, and longitudinal levels**
+- Harmonization of variables, codings, and time structures across repeated data deliveries
+- Development of reproducible processing workflows for recurring dataset generation and updates
+- Systematic plausibility, consistency, and quality checks to ensure reliable research datasets
+- Documentation and methodological support for external researchers working with complex SOEP data
+- Presentation of datasets and analytical possibilities at external scientific institutions
+- Econometric analysis of panel and event-history data
+- Research on causal and longitudinal questions resulting in peer-reviewed publications
+- Presentation of research findings at national and international conferences
+- Methodological teaching in German and English
+
+This work combined **conceptual data architecture, reproducibility, methodological quality assurance, and empirical research**.
+
+---
+
+### Institute for Employment Research (IAB) â€“ Causal Evaluation & Evidence for Labor-Market Policy
+
+At the **Institute for Employment Research (IAB)**, I worked on labor-market and social-policy research using large administrative and register datasets.
+
+My work included:
+
+- Independent development of research questions, theoretical concepts, empirical designs, and analytical strategies
+- Preparation and structuring of administrative process and register data for evaluation studies
+- Application of **counterfactual approaches, matching methods, Propensity Score Matching, regression models, and panel methods**
+- Development and assessment of empirical strategies for estimating causal effects of labor-market and rehabilitation measures
+- Robustness analyses to test the reliability of central estimates
+- Development and refinement of comparative **job-center typologies** using regression and cluster methods
+- Preparation of analytical results for project reports, public-sector stakeholders, and policy-oriented decision-making
+- Contributions to research projects commissioned or used by **BMAS** and the **Federal Employment Agency (BA)**
+
+The central methodological focus was not only effect estimation, but the design of empirical strategies that support **credible causal interpretation and evidence-based policy evaluation**.
+
+---
+
+### ðŸŒ International & Comparative Research Experience
+
+My earlier research career was shaped by **DFG-funded international research projects** at the Universities of Bamberg, Leipzig, and GÃ¶ttingen within the same continuing research context.
 
 Work included:
-- Preparation and harmonization of international survey and panel data
-- Cross-country comparability checks and documentation
-- Comparative modeling of employment trajectories and income dynamics
-- Collaboration within international research consortia and policy-oriented projects
 
+- Development of methodological designs for comparative longitudinal analyses of employment careers and social inequality
+- Harmonization of complex panel and survey datasets across countries and institutional contexts
+- Definition of comparable cohorts, outcomes, and analytical structures for cross-national research
+- Comparative modeling of employment trajectories and income dynamics
+- Empirical and organizational support for international project collaboration
+- Documentation of research processes and analytical decisions
+- Presentation of findings at international conferences
+- Contributions to peer-reviewed publications based on comparative longitudinal research
+
+This work established a long-standing foundation in **comparative empirical research, complex longitudinal data, and international collaboration**.
 
 ---
 
-## 📊 Selected Applied & Advisory Projects
+## ðŸ“Š Selected Applied & Advisory Projects
 
-### ♻️ Ecoembes – Environmental Data Analysis & Recycling Behavior
+### â™»ï¸ Ecoembes & Universidad Carlos III Madrid â€“ Environmental Data Analysis & Recycling Behavior
 
-Applied research project commissioned by **Ecoembes** (Spain’s national recycling consortium) in collaboration with **Carlos III University Madrid**.  
-Empirical analysis of **municipal-level environmental and socioeconomic data** to identify structural drivers of recycling performance and container misuse.
+Applied research project in collaboration with **Ecoembes** and **Universidad Carlos III Madrid**.
 
 Responsibilities included:
 
-- Integration and harmonization of recycling and socioeconomic datasets covering **8,000+ municipalities**
-- Development and comparison of parametric model specifications to analyze variation in recycling quantity and quality
+- Participation already at the proposal stage as a specialist in socioeconomic data and statistical modeling
+- Joint development of the empirical research framework and analytical strategy
+- Integration of municipal recycling data with extensive socioeconomic information for **8,000+ municipalities**
+- Data harmonization, validation, consistency checks, and construction of a structured analytical database
+- Development and comparison of alternative parametric model specifications
 - Systematic comparison of predicted and observed outcomes to identify structural deviations
-- Data validation and methodological consistency across project phases
+- Quantification of regional differences in recycling quantity, recycling quality, and container misuse (â€œimpropiosâ€)
+- Identification of regional patterns and evidence-based recommendations for targeted communication and policy measures
+- Methodological support for extending the project from selected regions to broader geographic coverage
 
-Results informed **evidence-based environmental policy measures** and targeted regional interventions.
----
-
-### 🕶️ Vistachic S.L. – Applied Empirical Analysis & Market Insights
-
-Empirical analysis of sales and product data from retail operations in Spain and France.  
-Focus on **data preparation, harmonization, and structured evaluation** of multi-market sales information.
-
-Findings supported **strategic decision-making** in assortment planning, product development, and market positioning.
+The project linked **empirical research design, large-scale municipal data, statistical modeling, and policy-oriented interpretation**.
 
 ---
 
-## 📚 Publications (Selection)
+### ðŸ•¶ï¸ Vistachic S.L. â€“ Applied Empirical Analysis & Market Insights
+
+Independent analytical project using multi-year retail and product data from operations in Spain and France.
+
+Work included:
+
+- End-to-end design and implementation of the analytical workflow
+- Systematic structuring and cleaning of previously fragmented sales data
+- Integration of external contextual information such as weather, seasonality, purchasing power, demographics, tourism, and location characteristics
+- Construction of a reusable analytical data foundation for repeated product, seasonal, and regional analyses
+- Development and validation of statistical and machine-learning models
+- Identification of relevant product, demand, location, and regional patterns
+- Quantification of factors associated with sales performance
+- Translation of analytical findings into decision support for product planning, marketing, and market expansion
+
+The project demonstrates the transfer of **statistical reasoning and empirical analysis into a commercial decision-making context**.
+
+---
+
+## ðŸ› Selected Policy & Evaluation Projects
+
+### Labor-Market Rehabilitation
+- Development of empirical concepts and analytical strategies for research on vocational rehabilitation
+- Preparation and analysis of administrative data
+- Assessment of feasible causal evaluation approaches
+- Statistical modeling to improve the empirical assessment of rehabilitation measures
+
+### Marginal Employment / Minijobs
+- Development of a project plan and empirical research design
+- Systematic review of related evaluation evidence
+- Implementation of a Propensity Score Matching design
+- Estimation of central effects and validation through robustness analyses
+
+### SGB II Job-Center Typology
+- Contribution to the redesign and refinement of comparative job-center typologies
+- Use of regression and cluster methods on large administrative datasets
+- Development of empirical classification foundations for regional benchmarking and institutional comparison
+
+### Labor-Market Program Evaluation
+- Application of counterfactual and multivariate methods to estimate policy effects
+- Translation of complex administrative data into evidence for public-sector decision-making
+- Preparation of results for reports, presentations, and policy-oriented use
+
+---
+
+## ðŸ§  Applied Machine Learning & Data Science
+
+My core background is in **statistics, econometrics, empirical research design, and causal analysis**. I have expanded this foundation with modern data-science and machine-learning methods.
+
+Experience includes:
+
+- Regression and classification models
+- Decision trees, Random Forest, and Gradient Boosting
+- Support Vector Machines
+- Clustering and dimensionality-reduction approaches
+- Feature engineering, model selection, regularization, and cross-validation
+- Time-series and forecasting methods
+- Neural networks and selected deep-learning applications
+- Reproducible analytical workflows using Python, Git, GitHub, and Jupyter
+
+I use machine-learning approaches as a complement to statistical and empirical reasoning â€” particularly for **prediction, pattern detection, validation, and applied decision support**.
+
+---
+
+## ðŸ§© Selected Data Science Project
+
+### Lumbar Spine Classification â€“ RSNA 2024 Challenge
+
+Independent deep-learning project for classification of degenerative spinal conditions from MRI images.
+
+- ResNet-50-based image-classification workflow
+- Automated image-selection routine for identifying relevant slices
+- End-to-end pipeline covering data preparation, model training, validation, and evaluation
+- Approx. **85% classification accuracy** compared with an initial baseline of approx. 35%
+
+ðŸ”— **Project:** [Lumbar Spine Degenerative Classification](https://github.com/CogitoErgoDS/Spine-Classification-Final/blob/main/README.md)
+
+---
+
+## ðŸ“š Selected Publications
 
 - *Consequences of Overeducation among Career Starters in Germany*  
   **European Sociological Review (2020)**
@@ -102,34 +225,47 @@ Findings supported **strategic decision-making** in assortment planning, product
 - *GlobalIndex: An Approach to Measuring Globalization*  
   **International Sociology (2008)**
 
-📄 **Full publication list:**  
-https://github.com/CogitoErgoDS/Publication-List
+### ðŸ“„ Full Publication List
+
+[View full publication list on GitHub](https://github.com/CogitoErgoDS/Publication-List)
 
 ---
 
-## 🧠 Applied Machine Learning & Data Science (selected)
+## ðŸ›  Methods & Tools
 
-Application of machine-learning methods to complement empirical analysis, particularly for
-pattern detection, data validation, and predictive support in complex datasets.
+**Statistics & Econometrics**  
+Regression models Â· GLM Â· GLMM Â· GAM Â· Panel Models Â· Survival Analysis Â· Event-History Analysis Â· Fixed/Random Effects Â· PCA Â· PLS Â· Time Series Â· Forecasting
 
-Experience includes tree-based models for classification and clustering, as well as selected
-deep-learning approaches for image-based classification tasks, with full workflows covering
-data preparation, modeling, and evaluation.
+**Causal Inference & Evaluation**  
+Counterfactual Designs Â· PSM Â· Matching Â· DiD Â· RDD Â· Quasi-Experimental Designs Â· Robustness Analysis Â· Policy Evaluation
+
+**Programming & Data Analysis**  
+Python Â· Stata Â· SQL Â· SPSS Â· pandas Â· NumPy Â· scikit-learn Â· statsmodels Â· Jupyter
+
+**Machine Learning**  
+Random Forest Â· Gradient Boosting Â· SVM Â· Ensemble Learning Â· Regularization Â· Cross-Validation Â· Feature Engineering Â· Neural Networks Â· Deep Learning
+
+**Research Data & Reproducibility**  
+Data Harmonization Â· Data Validation Â· Quality Assurance Â· Git Â· GitHub Â· MLflow Â· Reproducible Workflows Â· Research Data Documentation
+
+**Visualization & Reporting**  
+Power BI Â· Matplotlib Â· Statistical Reporting Â· Decision-Oriented Communication
 
 ---
 
+## ðŸŒ Languages
 
-## 🌍 Languages
-
-- German (native)
-- English (fluent)
-- Russian (fluent)
+- German â€” native
+- English â€” fluent
+- Russian â€” fluent
 
 ---
 
-## 📫 Contact
+## ðŸ“« Contact
 
-- GitHub: https://github.com/CogitoErgoDS  
-- Email: paul.schmelzer.sci@gmail.com
+- **GitHub:** [@CogitoErgoDS](https://github.com/CogitoErgoDS)
+- **Email:** paul.schmelzer.sci@gmail.com
 
-*Make evidence count.*
+---
+
+> **Make evidence count.**
